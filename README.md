@@ -1,4 +1,4 @@
 # DesmosSkinEditor
 Python script that translates a minecraft skin png into HSV Lists.
 
-Desmos link to the skin editor: https://www.desmos.com/calculator/xjmifnkkgr
+Desmos link to the skin editor: https://www.desmos.com/calculator/4hsktuejk0
