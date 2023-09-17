@@ -8,7 +8,7 @@ if len(sys.argv) < 2:
     exit(1)
 
 img = Image.open(sys.argv[1])
-img_hsv=img.convert('s')
+img_hsv=img.convert('HSV')
 width, height = img.size
 
 H=[0]*4096
